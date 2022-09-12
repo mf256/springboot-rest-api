@@ -1,0 +1,3 @@
+insert into products (id, name, description, price, created_at, updated_at) values (1,'Product 1', 'Description of Product 1.', 100, now(), now());
+insert into products (id, name, description, price, created_at, updated_at) values (2,'Product 2', 'Description of Product 2.', 150, now(), now());
+insert into products (id, name, description, price, created_at, updated_at) values (3,'Product 3', 'Description of Product 3.', 200, now(), now());
